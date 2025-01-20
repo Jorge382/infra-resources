@@ -1,0 +1,4 @@
+rds_username: admin
+rds_password: password123
+rds_endpoint: mymysqldbjvs.criuqg402mat.eu-west-3.rds.amazonaws.com:3306
+rds_db_name: mydatabasejvs
